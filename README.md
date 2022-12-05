@@ -12,7 +12,13 @@ The objective of this project is to use machine learning models to validate and 
 
 ## Figure Examples
 
+Correlation Heatmap
+
 <img src="figures/Correlation Heatmap.png" width="600em" />
+
+SVM (Brute Force 8192 Scenarios)
+
+<img src="figures/SVM Scaled vs Unscaled 7 High Corr rs101 BF8192.png" width="600em" />
 
 ## Code Example
 
