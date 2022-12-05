@@ -16,7 +16,7 @@ Correlation Heatmap
 
 <img src="figures/Correlation Heatmap.png" width="600em" />
 
-SVM (8192 r#uns)
+SVM (8192 runs)
 
 <img src="figures/SVM Scaled vs Unscaled 7 High Corr rs101 BF8192.png" width="600em" />
 
