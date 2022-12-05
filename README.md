@@ -16,7 +16,7 @@ Correlation Heatmap (A more detailed correlation table can be found [here](https
 
 <img src="figures/Correlation Heatmap.png" width="600em" />
 
-SVM (8192 runs)
+SVM (8192 runs) for one subset.
 
 <img src="figures/SVM Scaled vs Unscaled 7 High Corr rs101 BF8192.png" width="600em" />
 
