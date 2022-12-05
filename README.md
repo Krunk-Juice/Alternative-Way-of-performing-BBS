@@ -1,3 +1,3 @@
 # Alternative-Way-of-performing-BBS
 
-The objective of this project is to use machine learning models to validate and compare their predictions against a professional’s assessment of a health patient using the Berg Balance Scale. ML is a technique that is very prominent today. I feel the need to familiarize myself with this and learn the capabilities that ML has in order for me to understand its potential uses in other fields of work. I want to see if only using the features from the BBS as training data for ML models can be a standalone method of predicting patient fall risk.
+The objective of this project is to use machine learning models to validate and compare their predictions against a professional’s assessment of a health patient using the Berg Balance Scale. This study is to determine whether using subset features from the BBS as training data for ML models can be a standalone method of predicting patient fall risk.
