@@ -12,7 +12,7 @@ The objective of this project is to use machine learning models to validate and 
 
 ## Code Example
 
-8192 scenarios of SVM for one subset
+The execution of 8192 scenarios of SVM for one subset. lofull = 8192
 
 ```py
 ero = []
