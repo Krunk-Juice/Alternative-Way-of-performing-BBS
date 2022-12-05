@@ -10,6 +10,10 @@ The objective of this project is to use machine learning models to validate and 
 
 - [All code files in "jupyter_notebooks" directory (jupyter_notebooks/*)](jupyter_notebooks)
 
+## Figure Examples
+
+<img src="figures/Correlation Heatmap.png" width="300em" />
+
 ## Code Example
 
 The execution of SVM for one subset.
