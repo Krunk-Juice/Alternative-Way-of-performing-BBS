@@ -12,7 +12,7 @@ The objective of this project is to use machine learning models to validate and 
 
 ## Figure Examples
 
-<img src="figures/Correlation Heatmap.png" width="300em" />
+<img src="figures/Correlation Heatmap.png" width="600em" />
 
 ## Code Example
 
