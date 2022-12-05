@@ -16,7 +16,7 @@ Correlation Heatmap
 
 <img src="figures/Correlation Heatmap.png" width="600em" />
 
-SVM (Brute Force 8192 Scenarios)
+SVM (8192 r#uns)
 
 <img src="figures/SVM Scaled vs Unscaled 7 High Corr rs101 BF8192.png" width="600em" />
 
@@ -38,3 +38,7 @@ grid = GridSearchCV(SVC(),param_grid,refit=True,verbose=0)
 grid.fit(X_train,y_train)
 grid_predict = grid.predict(X_test)
 ```
+
+## Credits
+
+[Christopher Ta](https://github.com/Krunk-Juice)
