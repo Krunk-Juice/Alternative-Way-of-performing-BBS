@@ -12,7 +12,7 @@ The objective of this project is to use machine learning models to validate and 
 
 ## Figure Examples
 
-Correlation Heatmap
+Correlation Heatmap (A more detailed correlation table can be found [here](https://github.com/Krunk-Juice/Alternative-Way-of-performing-BBS/blob/main/excels/BBS%20Machine%20Learning%20Data%20Detailed%20Correlation%20Table.xlsx).)
 
 <img src="figures/Correlation Heatmap.png" width="600em" />
 
