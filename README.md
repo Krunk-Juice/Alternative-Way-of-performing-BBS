@@ -8,4 +8,4 @@ The objective of this project is to use machine learning models to validate and 
 
 - [All images and figures files can be found in "figures" directory (figures/*)](figures)
 
-- [All code files in "jupyter notebooks" directory (jupyter notebooks/*)]('jupyter notebooks')
+- [All code files in "jupyter notebooks" directory (jupyter notebooks/*)](jupyter_notebooks)
