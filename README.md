@@ -63,7 +63,7 @@ What I used to build my code on:
 - `Cufflinks` (Recommended | Data Visualization)
   - In terminal run "pip install cufflinks"
 
-**NOTE**: If Ploty and Cufflinks are not installed, some notebooks will need to be edited in order to run.  
+🟥 **NOTE**: If Ploty and Cufflinks are not installed, some notebooks will need to be edited in order to run.  
 
 ## Credits
 
