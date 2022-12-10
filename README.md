@@ -20,7 +20,7 @@ SVM (8192 runs) for one subset.
 
 <img src="figures/SVM Scaled vs Unscaled 7 High Corr rs101 BF8192.png" width="600em" />
 
-## How To
+## How To Run
 
 What I used to build my code on:
 
