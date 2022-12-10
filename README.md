@@ -26,25 +26,25 @@ What I used to build my code on:
 
 - [Anaconda on Windows](https://docs.anaconda.com/anaconda/install/windows/)
 
-- NumPy (Required)
-  - In terminal run "conda install numpy" OR "pip install numpy".
+- `NumPy` (Required)
+  - In terminal run "conda install numpy" **OR** "pip install numpy".
 
-- pandas (Required | Data Visualization)
-  - In terminal run "conda install pandas" OR "pip install pandas"
+- `pandas` (Required | Data Visualization)
+  - In terminal run "conda install pandas" **OR** "pip install pandas"
 
-- Matplotlib (Required | Data Visualization)
-  - In terminal run "conda install matplotlib" OR "pip install matplotlib"
+- `Matplotlib` (Required | Data Visualization)
+  - In terminal run "conda install matplotlib" **OR** "pip install matplotlib"
 
-- seaborn (Required | Data Visualization)
-  - In terminal run "conda install seaborn" OR "pip install seaborn"
+- `seaborn` (Required | Data Visualization)
+  - In terminal run "conda install seaborn" **OR** "pip install seaborn"
 
-- Plotly (Recommended | Data Visualization)
+- `Plotly` (Recommended | Data Visualization)
   - In terminal run "pip install plotly"
 
-- Cufflinks (Recommended | Data Visualization)
+- `Cufflinks` (Recommended | Data Visualization)
   - In terminal run "pip install cufflinks"
 
-NOTE: If Ploty and Cufflinks are not installed, some notebooks will need to be edited in order to run.  
+**NOTE**: If Ploty and Cufflinks are not installed, some notebooks will need to be edited in order to run.  
 
 ## Code Example
 
