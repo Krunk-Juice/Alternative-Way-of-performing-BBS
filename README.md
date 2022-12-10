@@ -20,6 +20,32 @@ SVM (8192 runs) for one subset.
 
 <img src="figures/SVM Scaled vs Unscaled 7 High Corr rs101 BF8192.png" width="600em" />
 
+## How To
+
+What I used to build my code on:
+
+- [Anaconda on Windows](https://docs.anaconda.com/anaconda/install/windows/)
+
+- NumPy (Required)
+  - In terminal run "conda install numpy" OR "pip install numpy".
+
+- pandas (Required | Data Visualization)
+  - In terminal run "conda install pandas" OR "pip install pandas"
+
+- Matplotlib (Required | Data Visualization)
+  - In terminal run "conda install matplotlib" OR "pip install matplotlib"
+
+- seaborn (Required | Data Visualization)
+  - In terminal run "conda install seaborn" OR "pip install seaborn"
+
+- Plotly (Recommended | Data Visualization)
+  - In terminal run "pip install plotly"
+
+- Cufflinks (Recommended | Data Visualization)
+  - In terminal run "pip install cufflinks"
+
+NOTE: If Ploty and Cufflinks are not installed, some notebooks will need to be edited in order to run.  
+
 ## Code Example
 
 The execution of SVM for one subset.
